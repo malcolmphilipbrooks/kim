@@ -1,8 +1,12 @@
+<<<<<<< HEAD
+thrum thrum says bom
+=======
 hum hum says mpb
+>>>>>>> origin/master
 
 add a second line on githum mpb
 add a 2nd 2nd line by mp
 here are both third lines:
 mpb says this is the third line
 add a third line by bom
-
+add a 4th line by bom
